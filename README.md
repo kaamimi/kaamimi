@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning - Django
 
 ## 📫 Reach out to me on:
-- Email: kamalesh2419@gmail.com
+- Email: kaamimi.dev@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kamalesh-khanna/
